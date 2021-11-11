@@ -1,5 +1,12 @@
-
-
+/* Table padding and margin  */
+table tr th{
+  margin: 1rem 0rem 1rem 0rem;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+table tr td {
+  margin: 1rem 0rem 1rem 0rem;
+  padding: 1rem 1rem 1rem 1rem;
+}
 /*
 Copyright Google LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
