@@ -1,5 +1,5 @@
 /* Table padding and margin  */
-table tr th{
+table tr th {
   margin: 1rem 0rem 1rem 0rem;
   padding: 0.5rem 0.5rem 0.5rem 0.5rem;
 }
